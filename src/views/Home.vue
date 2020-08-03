@@ -1,6 +1,5 @@
 <template>
     <div>
-        <app-header/>
         <first-page-slider/>
         <first-page-collection/>
         <first-page-products-ctegory/>
@@ -9,9 +8,6 @@
         <first-page-blog/>
          <first-page-feedback/>
          <first-page-instagram-images/>
-         <first-page-info-footer/>
-         <page-footer/>
-
     </div>
 </template>
 
